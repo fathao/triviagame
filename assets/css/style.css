@@ -1,0 +1,26 @@
+.container {
+	width: 100%;
+  	max-width: 960px;
+  	margin: 0 auto;
+  	clear: both;
+}
+
+body {
+	background-image: url(../images/bg.png);
+}
+
+.head{
+	color: red;
+}
+
+#questionList,
+#result,
+#timeClock {
+	color:red;
+}
+
+*{
+	text-align: center;
+}
+
+
